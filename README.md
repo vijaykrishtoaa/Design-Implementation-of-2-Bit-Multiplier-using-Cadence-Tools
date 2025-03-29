@@ -36,16 +36,9 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 
 ## Truth Table for 2-Bit Multiplier
-| A1 | A0 | B1 | B0 | P3 | P2 | P1 | P0 |
-|----|----|----|----|----|----|----|----|
-|  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
-|  0 |  0 |  0 |  1 |  0 |  0 |  0 |  0 |
-|  0 |  0 |  1 |  0 |  0 |  0 |  0 |  0 |
-|  0 |  1 |  0 |  1 |  0 |  0 |  0 |  1 |
-|  0 |  1 |  1 |  0 |  0 |  0 |  1 |  0 |
-|  1 |  0 |  0 |  1 |  0 |  0 |  1 |  0 |
-|  1 |  0 |  1 |  0 |  0 |  1 |  0 |  0 |
-|  1 |  1 |  1 |  1 |  1 |  0 |  0 |  1 |
+
+![image](https://github.com/user-attachments/assets/fdb01f7d-60c1-4605-8462-c4dd954c5602)
+
 
 ## Schematic Diagram
 ### 1. Schematic of 2-Bit Multiplier:
