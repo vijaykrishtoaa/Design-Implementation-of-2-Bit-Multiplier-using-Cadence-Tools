@@ -32,7 +32,8 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 - Set up **input stimulus** and analyze the **output waveform**.
 
 ## Circuit Diagram
-![image](https://github.com/user-attachments/assets/dce1d820-c663-4ca2-96c5-bd9129a69770)
+
+![image](https://github.com/user-attachments/assets/a56c4672-c7a5-44a8-908f-860243dc365d)
 
 
 ## Truth Table for 2-Bit Multiplier
